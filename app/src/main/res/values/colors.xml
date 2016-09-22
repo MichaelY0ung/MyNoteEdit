@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5A79A6</color>
+    <color name="colorPrimaryDark">#5A79A6</color>
+    <color name="colorAccent">#FFEE58</color>
+    <color name="tabColor">#A4C5FF</color>
+    <color name="tabColorSelected">#FFEE58</color>
+    <color name="colorTypeWork">#000099</color>
+    <color name="colorTypeSport">#ff0000</color>
+    <color name="colorTypeReminder">#A757A8</color>
+    <color name="colorTypeNote">#000000</color>
+    <color name="colorTypeOthers">#b3b3b3</color>
+</resources>

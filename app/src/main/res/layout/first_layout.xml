@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/first">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="#66000000"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:gravity="center_horizontal|bottom"
+            android:text="吾日三省吾身；"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:gravity="center_horizontal|top"
+            android:layout_marginTop="2dp"
+            android:text="为人谋而不忠乎？与朋友交而不信乎？\n传不习乎？"
+            android:textSize="16sp"
+            android:textColor="#ffffff"/>
+    </LinearLayout>
+</RelativeLayout>
